@@ -1933,3 +1933,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31May2025 01:15:17.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Danger In The Woods]
 [31May2025 01:16:33.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 01:16:33.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 01:17:54.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported rapjs798 to Kratos991]
+[31May2025 01:18:07.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [Danger In The Woods]
+[31May2025 01:21:33.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 01:21:33.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 01:22:06.476] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3787.70, y=-48.00, z=-3158.65]]
+[31May2025 01:24:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to Algu1]
+[31May2025 01:26:33.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 01:26:33.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
