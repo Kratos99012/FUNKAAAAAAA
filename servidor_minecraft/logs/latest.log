@@ -35,3 +35,8 @@
 [31May2025 01:39:56.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3830, y=5, z=-3036} BlockPos{x=3829, y=4, z=-3036}
 [31May2025 01:40:26.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rapjs798 lost connection: Disconnected
 [31May2025 01:40:26.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 left the game
+[31May2025 01:48:45.344] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23400652[id=<null>,name=rapjs798,properties={},legacy=false] (/127.156.95.243:39119) lost connection: Disconnected
+[31May2025 01:48:49.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rapjs798[/127.156.95.243:42755] logged in with entity id 63107 at (3845.318813590981, 7.0, -3043.632541673358)
+[31May2025 01:48:49.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 joined the game
+[31May2025 02:00:49.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Algu1 fell from a high place
+[31May2025 02:00:49.268] [Server thread/INFO] [tombstone/]: The player Algu1 has successfully been saved
