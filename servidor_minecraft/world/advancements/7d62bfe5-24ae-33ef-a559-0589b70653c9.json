@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-31 00:43:03 +0000",
       "minecraft:eroded_badlands": "2025-05-24 02:41:27 +0000",
       "minecraft:cherry_grove": "2025-05-20 23:29:19 +0000",
       "minecraft:sunflower_plains": "2025-05-21 00:02:50 +0000",

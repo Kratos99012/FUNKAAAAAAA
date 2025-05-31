@@ -20,6 +20,7 @@
       "minecraft:jungle": "2025-05-23 20:45:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-24 07:32:25 +0000",
       "minecraft:deep_dark": "2025-05-24 03:14:50 +0000",
+      "minecraft:savanna": "2025-05-31 00:45:23 +0000",
       "minecraft:plains": "2025-05-23 22:13:17 +0000"
     },
     "done": false
@@ -2246,6 +2247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-31 00:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-31 00:29:17 +0000"
@@ -2261,6 +2268,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-31 00:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-31 00:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-31 00:45:38 +0000"
     },
     "done": true
   },
