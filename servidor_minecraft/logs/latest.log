@@ -218,3 +218,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31May2025 15:47:52.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kratos991 moved too quickly! 5.636550492495175,-3.1212968405391948,-7.754709665153314
 [31May2025 15:47:52.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3148ms or 62 ticks behind
 [31May2025 16:01:41.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
+[31May2025 16:17:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to Kratos991]
+[31May2025 16:17:48.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/75083, l='ServerLevel[world]', x=269.99, y=63.00, z=3604.01] died, message: 'Villager was slain by Kratos991'
+[31May2025 16:17:48.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [Neighborhood Brawl]
+[31May2025 16:18:57.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
+[31May2025 16:28:57.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kratos991 lost connection: Disconnected
+[31May2025 16:28:57.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 left the game
+[31May2025 16:29:13.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31May2025 16:29:13.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 16:29:13.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 16:29:13.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rapjs798 lost connection: Disconnected
+[31May2025 16:29:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 left the game
+[31May2025 16:29:13.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 16:29:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31May2025 16:29:13.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31May2025 16:29:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31May2025 16:29:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/doppelgangermod:subworld
+[31May2025 16:29:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31May2025 16:29:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31May2025 16:29:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31May2025 16:29:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (subworld): All chunks are saved
+[31May2025 16:29:13.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31May2025 16:29:13.878] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
