@@ -2953,9 +2953,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-31 01:26:52 +0000"
+    },
+    "done": true
+  },
   "sasquatch:danger_in_the_woods": {
     "criteria": {
       "danger_in_the_woods": "2025-05-31 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-31 01:26:52 +0000"
     },
     "done": true
   },

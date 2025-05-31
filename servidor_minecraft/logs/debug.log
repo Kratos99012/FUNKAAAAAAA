@@ -1941,3 +1941,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31May2025 01:24:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to Algu1]
 [31May2025 01:26:33.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 01:26:33.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 01:29:35.136] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['rapjs798'/2165, l='ServerLevel[world]', x=1261.00, y=110.00, z=-765.35]]
+[31May2025 01:29:35.416] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:37.086] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['rapjs798'/2165, l='ServerLevel[world]', x=1263.08, y=110.02, z=-772.74]]
+[31May2025 01:29:37.836] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=1260.05, y=110.00, z=-766.78]]
+[31May2025 01:29:39.367] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:42.588] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:43.239] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:44.436] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['rapjs798'/2165, l='ServerLevel[world]', x=1263.75, y=109.12, z=-773.11]]
+[31May2025 01:29:45.240] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:49.133] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:49.637] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['rapjs798'/2165, l='ServerLevel[world]', x=1256.97, y=110.00, z=-763.74]]
+[31May2025 01:29:50.536] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=1265.50, y=109.04, z=-780.50]]
+[31May2025 01:29:51.236] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=1265.50, y=109.00, z=-780.50]]
+[31May2025 01:29:52.510] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:52.795] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:54.180] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.59]]
+[31May2025 01:29:54.786] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=1265.07, y=109.75, z=-782.28]]
+[31May2025 01:29:57.736] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=1263.05, y=109.50, z=-780.51]]
+[31May2025 01:30:01.236] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['rapjs798'/2165, l='ServerLevel[world]', x=1262.06, y=109.00, z=-780.19]]
+[31May2025 01:30:03.386] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['rapjs798'/2165, l='ServerLevel[world]', x=1262.66, y=109.00, z=-778.36]]
+[31May2025 01:30:04.836] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=1265.50, y=109.04, z=-780.50]]
+[31May2025 01:30:04.886] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=1265.50, y=109.00, z=-780.50]]
+[31May2025 01:30:05.136] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['rapjs798'/2165, l='ServerLevel[world]', x=1262.15, y=110.00, z=-768.60]]
+[31May2025 01:30:08.186] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['rapjs798'/2165, l='ServerLevel[world]', x=1261.09, y=110.00, z=-764.47]]
+[31May2025 01:31:33.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 01:31:33.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 01:36:01.221] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.70]]
+[31May2025 01:36:04.029] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.70]]
+[31May2025 01:36:06.963] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.70]]
+[31May2025 01:36:18.910] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.70]]
+[31May2025 01:36:33.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 01:36:33.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 01:37:35.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [The Cutest Predator]
+[31May2025 01:39:56.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3830, y=5, z=-3036} BlockPos{x=3829, y=4, z=-3036}
+[31May2025 01:40:26.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rapjs798 lost connection: Disconnected
+[31May2025 01:40:26.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 left the game
+[31May2025 01:41:33.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 01:41:33.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 01:42:59.191] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.70]]
+[31May2025 01:43:00.241] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.70]]
+[31May2025 01:43:00.915] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=3783.11, y=1.00, z=-3183.36]]
+[31May2025 01:43:02.854] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Algu1'/44796, l='ServerLevel[world]', x=3783.16, y=1.00, z=-3183.35]]
+[31May2025 01:43:03.781] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/497, l='ServerLevel[world]', x=3778.30, y=-5.00, z=-3202.70]]
+[31May2025 01:46:33.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 01:46:33.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
