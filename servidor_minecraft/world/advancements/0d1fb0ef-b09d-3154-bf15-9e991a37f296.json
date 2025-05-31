@@ -10,6 +10,7 @@
       "minecraft:old_growth_pine_taiga": "2025-05-21 22:02:06 +0000",
       "minecraft:taiga": "2025-05-21 22:01:27 +0000",
       "minecraft:eroded_badlands": "2025-05-24 02:41:28 +0000",
+      "minecraft:frozen_river": "2025-05-31 01:12:57 +0000",
       "minecraft:cherry_grove": "2025-05-20 23:19:54 +0000",
       "minecraft:sunflower_plains": "2025-05-20 23:50:52 +0000",
       "minecraft:birch_forest": "2025-05-21 20:59:38 +0000",
@@ -2945,6 +2946,12 @@
       "has_decorative_grave": "2025-05-24 08:35:20 +0000"
     },
     "done": true
+  },
+  "doppelgangermod:reverse": {
+    "criteria": {
+      "reverse_1": "2025-05-31 00:59:09 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
