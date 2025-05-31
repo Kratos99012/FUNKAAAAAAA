@@ -213,3 +213,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31May2025 14:49:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
 [31May2025 14:59:43.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Glow and Behold!]
 [31May2025 15:04:41.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [The Parrots and the Bats]
+[31May2025 15:36:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
+[31May2025 15:40:52.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has completed the challenge [Executioner]
+[31May2025 15:47:52.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kratos991 moved too quickly! 5.636550492495175,-3.1212968405391948,-7.754709665153314
+[31May2025 15:47:52.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3148ms or 62 ticks behind

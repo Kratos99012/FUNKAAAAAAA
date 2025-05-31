@@ -497,6 +497,7 @@
       "minecraft:witch": "2025-05-23 20:56:20 +0000",
       "minecraft:wither_skeleton": "2025-05-24 04:54:11 +0000",
       "minecraft:enderman": "2025-05-20 22:27:39 +0000",
+      "minecraft:endermite": "2025-05-31 15:36:41 +0000",
       "minecraft:zombie": "2025-05-20 22:35:55 +0000",
       "minecraft:drowned": "2025-05-20 23:52:16 +0000",
       "minecraft:zombie_villager": "2025-05-20 22:33:07 +0000"
@@ -3002,6 +3003,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-31 14:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 15:40:35 +0000"
     },
     "done": true
   },
