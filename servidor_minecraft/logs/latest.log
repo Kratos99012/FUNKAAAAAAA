@@ -148,3 +148,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:13:38.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
 [08Jun2025 02:13:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Ol' Betsy]
 [08Jun2025 02:14:02.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
+[08Jun2025 02:17:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has reached the goal [Powder Snow Walk]
+[08Jun2025 02:20:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [Fishy Business]
+[08Jun2025 02:22:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [An adventure awaits you]
+[08Jun2025 02:22:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [An adventure awaits you]

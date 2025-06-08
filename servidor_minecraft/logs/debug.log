@@ -1622,3 +1622,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:14:02.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
 [08Jun2025 02:14:58.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jun2025 02:14:58.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 02:17:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has reached the goal [Powder Snow Walk]
+[08Jun2025 02:19:58.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:19:58.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 02:20:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [Fishy Business]
+[08Jun2025 02:22:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [An adventure awaits you]
+[08Jun2025 02:22:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [An adventure awaits you]
+[08Jun2025 02:24:58.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:24:58.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
