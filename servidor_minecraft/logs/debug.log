@@ -1600,3 +1600,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:04:43.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1333, y=-51, z=-964} BlockPos{x=1332, y=-51, z=-964}
 [08Jun2025 02:04:58.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jun2025 02:04:58.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 02:05:26.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1346, y=-52, z=-968} BlockPos{x=1346, y=-52, z=-964}
+[08Jun2025 02:05:27.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1347, y=-52, z=-970} BlockPos{x=1346, y=-52, z=-964}
+[08Jun2025 02:06:51.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1364, y=-48, z=-957} BlockPos{x=1364, y=-49, z=-959}
+[08Jun2025 02:06:51.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1364, y=-48, z=-956} BlockPos{x=1364, y=-49, z=-959}
+[08Jun2025 02:08:39.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1337, y=-52, z=-956} BlockPos{x=1337, y=-51, z=-958}
+[08Jun2025 02:09:22.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1328, y=-45, z=-939} BlockPos{x=1328, y=-45, z=-938}
+[08Jun2025 02:09:58.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:09:58.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 02:12:25.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Fishy Business]
+[08Jun2025 02:13:37.493] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kratos991'/2463, l='ServerLevel[world]', x=1285.13, y=-51.00, z=-968.21]]
+[08Jun2025 02:13:37.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-966} BlockPos{x=1282, y=-52, z=-967}
+[08Jun2025 02:13:37.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:37.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:37.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:37.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:37.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:38.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:38.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Ol' Betsy]
+[08Jun2025 02:14:02.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
+[08Jun2025 02:14:58.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:14:58.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

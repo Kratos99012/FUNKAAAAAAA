@@ -131,3 +131,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:03:28.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1271, y=-52, z=-949} BlockPos{x=1270, y=-53, z=-949}
 [08Jun2025 02:04:23.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1310, y=-52, z=-969} BlockPos{x=1311, y=-53, z=-967}
 [08Jun2025 02:04:43.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1333, y=-51, z=-964} BlockPos{x=1332, y=-51, z=-964}
+[08Jun2025 02:05:26.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1346, y=-52, z=-968} BlockPos{x=1346, y=-52, z=-964}
+[08Jun2025 02:05:27.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1347, y=-52, z=-970} BlockPos{x=1346, y=-52, z=-964}
+[08Jun2025 02:06:51.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1364, y=-48, z=-957} BlockPos{x=1364, y=-49, z=-959}
+[08Jun2025 02:06:51.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1364, y=-48, z=-956} BlockPos{x=1364, y=-49, z=-959}
+[08Jun2025 02:08:39.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1337, y=-52, z=-956} BlockPos{x=1337, y=-51, z=-958}
+[08Jun2025 02:09:22.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1328, y=-45, z=-939} BlockPos{x=1328, y=-45, z=-938}
+[08Jun2025 02:12:25.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Fishy Business]
+[08Jun2025 02:13:37.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-966} BlockPos{x=1282, y=-52, z=-967}
+[08Jun2025 02:13:37.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:37.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:37.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:37.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:37.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:38.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:38.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
+[08Jun2025 02:13:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Ol' Betsy]
+[08Jun2025 02:14:02.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
