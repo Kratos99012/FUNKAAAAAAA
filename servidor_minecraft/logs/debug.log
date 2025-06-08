@@ -1630,3 +1630,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:22:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [An adventure awaits you]
 [08Jun2025 02:24:58.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jun2025 02:24:58.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 02:29:58.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:29:58.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 02:33:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has reached the goal [Land Exploration]
+[08Jun2025 02:34:58.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:34:58.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

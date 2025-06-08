@@ -152,3 +152,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:20:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [Fishy Business]
 [08Jun2025 02:22:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [An adventure awaits you]
 [08Jun2025 02:22:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [An adventure awaits you]
+[08Jun2025 02:33:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has reached the goal [Land Exploration]

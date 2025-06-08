@@ -3130,9 +3130,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_lost_tablet_exploration": {
+    "criteria": {
+      "coded_trigger": "2025-06-08 02:33:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2025-06-08 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-06-08 02:30:17 +0000"
     },
     "done": true
   },
@@ -3141,6 +3153,18 @@
       "shot_crossbow": "2025-06-08 02:13:38 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-08 02:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-08 02:34:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
