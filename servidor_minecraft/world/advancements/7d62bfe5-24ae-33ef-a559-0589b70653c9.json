@@ -3052,15 +3052,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "doppelgangermod:mutation": {
     "criteria": {
-      "has_emerald_block": "2025-05-31 15:00:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2025-05-31 14:59:43 +0000"
+      "mutation_0": "2025-05-31 14:39:22 +0000"
     },
     "done": true
   },
@@ -3070,15 +3064,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-05-31 15:04:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-31 14:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-05-31 14:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-31 15:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-31 15:04:41 +0000"
     },
     "done": true
   },
@@ -3087,12 +3093,6 @@
       "minecraft:wolf": "2025-05-31 15:04:41 +0000"
     },
     "done": false
-  },
-  "doppelgangermod:mutation": {
-    "criteria": {
-      "mutation_0": "2025-05-31 14:39:22 +0000"
-    },
-    "done": true
   },
   "doppelgangermod:executioner": {
     "criteria": {

@@ -2988,15 +2988,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "doppelgangermod:mutation": {
     "criteria": {
-      "has_magma_cream": "2025-05-31 14:48:10 +0000"
+      "mutation_0": "2025-05-31 14:39:41 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "coded_trigger": "2025-05-31 16:17:48 +0000"
+      "has_magma_cream": "2025-05-31 14:48:10 +0000"
     },
     "done": true
   },
@@ -3006,21 +3006,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-31 15:02:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-31 14:50:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "has_ink_sac": "2025-05-31 15:40:35 +0000"
+      "has_stripped_logs": "2025-05-31 15:02:19 +0000"
     },
     "done": true
   },
@@ -3030,9 +3024,15 @@
     },
     "done": true
   },
-  "doppelgangermod:mutation": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "mutation_0": "2025-05-31 14:39:41 +0000"
+      "has_ink_sac": "2025-05-31 15:40:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 16:17:48 +0000"
     },
     "done": true
   },
