@@ -41,6 +41,7 @@
       "minecraft:deep_frozen_ocean": "2025-05-31 16:21:17 +0000",
       "minecraft:jungle": "2025-05-21 00:02:12 +0000",
       "minecraft:ocean": "2025-05-21 21:42:33 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-08 03:03:03 +0000",
       "minecraft:snowy_beach": "2025-05-31 14:51:41 +0000",
       "minecraft:windswept_savanna": "2025-05-21 20:56:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-21 21:35:59 +0000",
@@ -3036,63 +3037,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_frost_resistance": {
-    "criteria": {
-      "has_magic_scroll": "2025-06-08 02:17:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-06-08 02:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-06-08 02:20:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_disenchantment": {
-    "criteria": {
-      "coded_trigger": "2025-06-08 02:46:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-06-08 02:20:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-06-08 02:21:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-06-08 02:40:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_lost_tablet": {
-    "criteria": {
-      "has_lost_tablet": "2025-06-08 02:22:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-06-08 02:46:28 +0000"
     },
     "done": true
   },
@@ -3108,21 +3055,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-06-08 02:33:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-06-08 02:21:30 +0000"
     },
     "done": true
   },
@@ -3131,18 +3066,6 @@
       "has_planks": "2025-06-08 01:42:58 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-08 02:21:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-06-08 02:33:28 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
@@ -3162,6 +3085,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-08 01:42:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-08 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-08 02:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-06-08 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-08 02:20:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-06-08 02:20:53 +0000"
@@ -3174,9 +3127,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
+      "has_salmon": "2025-06-08 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-08 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-08 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2025-06-08 02:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-08 02:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-08 02:33:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-08 02:40:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-06-08 02:46:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-06-08 02:46:28 +0000"
     },
     "done": true
   },

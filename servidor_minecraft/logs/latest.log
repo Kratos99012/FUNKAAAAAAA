@@ -1,51 +1,51 @@
-[08Jun2025 01:04:24.904] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[08Jun2025 01:04:24.911] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[08Jun2025 01:04:26.183] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[08Jun2025 01:04:26.287] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[08Jun2025 01:04:26.929] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jun2025 01:04:26.931] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jun2025 01:04:26.932] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jun2025 01:04:26.935] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jun2025 01:04:27.168] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[08Jun2025 01:04:29.255] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Jun2025 01:04:29.297] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[08Jun2025 01:04:38.651] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[08Jun2025 01:04:38.651] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[08Jun2025 01:04:39.580] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[08Jun2025 01:04:39.617] [main/INFO] [journeymap/]: Initializing Packet Registries
-[08Jun2025 01:04:39.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[08Jun2025 01:04:40.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.5 Target: null
-[08Jun2025 01:04:40.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Jun2025 01:04:40.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[08Jun2025 01:04:40.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[08Jun2025 01:04:40.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
-[08Jun2025 01:04:41.312] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Jun2025 01:04:42.446] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
-[08Jun2025 01:04:42.447] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
-[08Jun2025 01:04:45.251] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[2].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.251] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/withered_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.251] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/ender_kille}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.252] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.252] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.252] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/clown_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.252] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/swarm_killer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.252] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/swarm_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.252] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/swarm_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.252] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/withered_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.252] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/abstract_killer}.pools[0].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/swarm_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/abstract_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/withered_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/raincoat_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/abstract_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/raincoat_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.253] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/clown_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.254] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/clown_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.254] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/raincoat_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Jun2025 01:04:45.311] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[08Jun2025 01:04:45.313] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[01Jul2025 02:38:12.501] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01Jul2025 02:38:12.507] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[01Jul2025 02:38:12.980] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Jul2025 02:38:13.053] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01Jul2025 02:38:13.355] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jul2025 02:38:13.359] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jul2025 02:38:13.361] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jul2025 02:38:13.362] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jul2025 02:38:13.559] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[01Jul2025 02:38:15.879] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Jul2025 02:38:15.921] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01Jul2025 02:38:26.740] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01Jul2025 02:38:26.743] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01Jul2025 02:38:27.706] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[01Jul2025 02:38:27.742] [main/INFO] [journeymap/]: Initializing Packet Registries
+[01Jul2025 02:38:28.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01Jul2025 02:38:28.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.5 Target: 9.0.0
+[01Jul2025 02:38:28.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Jul2025 02:38:28.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[01Jul2025 02:38:28.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[01Jul2025 02:38:29.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
+[01Jul2025 02:38:29.759] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Jul2025 02:38:32.018] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
+[01Jul2025 02:38:32.019] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/FUNKAAAAAAA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
+[01Jul2025 02:38:34.700] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[2].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.703] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/withered_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.704] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/ender_kille}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.704] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.704] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.704] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/clown_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.704] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/swarm_killer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.704] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/swarm_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.704] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/swarm_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.705] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/withered_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.705] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/abstract_killer}.pools[0].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.705] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.705] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/swarm_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.705] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/abstract_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.706] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/withered_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.706] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/raincoat_killer}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.706] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/crawling_killer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.706] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/abstract_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.706] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/raincoat_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.707] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/clown_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.707] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/clown_killer}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.707] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:killers:entities/raincoat_killer}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[01Jul2025 02:38:34.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[01Jul2025 02:38:34.767] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -61,97 +61,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23125!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[08Jun2025 01:04:45.447] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1543 advancements
-[08Jun2025 01:04:46.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[08Jun2025 01:04:46.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Jun2025 01:04:46.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Jun2025 01:04:46.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Jun2025 01:04:46.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Jun2025 01:04:46.454] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Jun2025 01:04:46.561] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Jun2025 01:04:46.561] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Jun2025 01:04:46.561] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Jun2025 01:04:46.562] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Jun2025 01:04:46.585] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[08Jun2025 01:04:46.588] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[08Jun2025 01:04:46.600] [Thread-1/INFO] [de.cadentem.goat_man.GoatMan/]: Server configuration has been reloaded
-[08Jun2025 01:04:46.600] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Jun2025 01:04:46.601] [Thread-1/INFO] [de.cadentem.goat_man.GoatMan/]: Server configuration has been reloaded
-[08Jun2025 01:04:46.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Jun2025 01:04:50.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Jun2025 01:04:55.048] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.062] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.079] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.086] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.093] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.123] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.146] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.162] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.182] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:55.684] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:56.131] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:56.616] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 01:04:57.117] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[08Jun2025 01:04:57.616] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
-[08Jun2025 01:04:57.943] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7328 ms
-[08Jun2025 01:04:57.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.364s)! For help, type "help"
-[08Jun2025 01:04:58.020] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Jun2025 01:09:18.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kratos991[/127.223.246.84:48831] logged in with entity id 411 at (1.2068301972025186, -27.8125, 3312.237500011921)
-[08Jun2025 01:09:18.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 joined the game
-[08Jun2025 01:09:21.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rapjs798[/127.169.10.224:33817] logged in with entity id 620 at (1272.699999988079, 111.0, -789.8212424113101)
-[08Jun2025 01:09:21.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 joined the game
-[08Jun2025 01:09:48.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kratos991 lost connection: Timed out
-[08Jun2025 01:09:48.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 left the game
-[08Jun2025 01:09:48.402] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[08Jun2025 01:11:31.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kratos991[/127.223.246.84:43433] logged in with entity id 2463 at (1.2068301972025186, -27.8125, 3312.237500011921)
-[08Jun2025 01:11:32.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 joined the game
-[08Jun2025 01:50:47.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1314, y=-48, z=-901} BlockPos{x=1313, y=-48, z=-900}
-[08Jun2025 01:50:53.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1306, y=-52, z=-903} BlockPos{x=1305, y=-52, z=-902}
-[08Jun2025 01:50:53.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1306, y=-52, z=-903} BlockPos{x=1305, y=-52, z=-902}
-[08Jun2025 01:50:53.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1306, y=-52, z=-903} BlockPos{x=1305, y=-52, z=-902}
-[08Jun2025 01:51:34.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1298, y=-51, z=-914} BlockPos{x=1298, y=-50, z=-915}
-[08Jun2025 01:51:34.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1298, y=-52, z=-913} BlockPos{x=1298, y=-51, z=-913}
-[08Jun2025 01:52:57.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
-[08Jun2025 01:55:08.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1216, y=-52, z=-890} BlockPos{x=1215, y=-52, z=-887}
-[08Jun2025 01:56:31.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1218, y=-52, z=-914} BlockPos{x=1219, y=-52, z=-915}
-[08Jun2025 01:56:31.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1194, y=-52, z=-863} BlockPos{x=1191, y=-52, z=-861}
-[08Jun2025 01:56:32.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1194, y=-52, z=-863} BlockPos{x=1191, y=-52, z=-861}
-[08Jun2025 01:56:32.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1194, y=-52, z=-863} BlockPos{x=1191, y=-52, z=-861}
-[08Jun2025 01:57:19.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1212, y=-46, z=-839} BlockPos{x=1209, y=-47, z=-840}
-[08Jun2025 01:57:25.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1213, y=-51, z=-866} BlockPos{x=1213, y=-46, z=-868}
-[08Jun2025 01:57:25.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1213, y=-51, z=-866} BlockPos{x=1213, y=-46, z=-868}
-[08Jun2025 01:57:28.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1210, y=-48, z=-868} BlockPos{x=1210, y=-48, z=-870}
-[08Jun2025 01:57:42.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1196, y=-50, z=-856} BlockPos{x=1196, y=-51, z=-855}
-[08Jun2025 01:57:52.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1197, y=-52, z=-863} BlockPos{x=1196, y=-53, z=-863}
-[08Jun2025 01:58:04.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1176, y=-52, z=-868} BlockPos{x=1182, y=-52, z=-869}
-[08Jun2025 02:02:34.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1285, y=-54, z=-931} BlockPos{x=1284, y=-53, z=-930}
-[08Jun2025 02:02:34.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1285, y=-54, z=-931} BlockPos{x=1284, y=-53, z=-930}
-[08Jun2025 02:03:13.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1281, y=-50, z=-942} BlockPos{x=1281, y=-51, z=-941}
-[08Jun2025 02:03:28.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1271, y=-52, z=-949} BlockPos{x=1270, y=-53, z=-949}
-[08Jun2025 02:04:23.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1310, y=-52, z=-969} BlockPos{x=1311, y=-53, z=-967}
-[08Jun2025 02:04:43.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1333, y=-51, z=-964} BlockPos{x=1332, y=-51, z=-964}
-[08Jun2025 02:05:26.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1346, y=-52, z=-968} BlockPos{x=1346, y=-52, z=-964}
-[08Jun2025 02:05:27.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1347, y=-52, z=-970} BlockPos{x=1346, y=-52, z=-964}
-[08Jun2025 02:06:51.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1364, y=-48, z=-957} BlockPos{x=1364, y=-49, z=-959}
-[08Jun2025 02:06:51.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1364, y=-48, z=-956} BlockPos{x=1364, y=-49, z=-959}
-[08Jun2025 02:08:39.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1337, y=-52, z=-956} BlockPos{x=1337, y=-51, z=-958}
-[08Jun2025 02:09:22.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1328, y=-45, z=-939} BlockPos{x=1328, y=-45, z=-938}
-[08Jun2025 02:12:25.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Fishy Business]
-[08Jun2025 02:13:37.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-966} BlockPos{x=1282, y=-52, z=-967}
-[08Jun2025 02:13:37.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
-[08Jun2025 02:13:37.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
-[08Jun2025 02:13:37.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
-[08Jun2025 02:13:37.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
-[08Jun2025 02:13:37.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
-[08Jun2025 02:13:38.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
-[08Jun2025 02:13:38.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-52, z=-965} BlockPos{x=1284, y=-52, z=-966}
-[08Jun2025 02:13:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [Ol' Betsy]
-[08Jun2025 02:14:02.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kratos991: Teleported Kratos991 to rapjs798]
-[08Jun2025 02:17:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has reached the goal [Powder Snow Walk]
-[08Jun2025 02:20:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [Fishy Business]
-[08Jun2025 02:22:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has made the advancement [An adventure awaits you]
-[08Jun2025 02:22:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [An adventure awaits you]
-[08Jun2025 02:33:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rapjs798 has reached the goal [Land Exploration]
-[08Jun2025 02:46:28.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [Magic Disenchantment]
-[08Jun2025 02:46:28.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 has made the advancement [Let The Magic Happen]
+[01Jul2025 02:38:34.908] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1543 advancements
+[01Jul2025 02:38:35.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Jul2025 02:38:35.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Jul2025 02:38:35.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Jul2025 02:38:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Jul2025 02:38:35.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Jul2025 02:38:35.976] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Jul2025 02:38:36.088] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Jul2025 02:38:36.089] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Jul2025 02:38:36.089] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Jul2025 02:38:36.089] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Jul2025 02:38:36.124] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[01Jul2025 02:38:36.125] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[01Jul2025 02:38:36.126] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Jul2025 02:38:36.128] [Thread-1/INFO] [de.cadentem.goat_man.GoatMan/]: Server configuration has been reloaded
+[01Jul2025 02:38:36.129] [Thread-1/INFO] [de.cadentem.goat_man.GoatMan/]: Server configuration has been reloaded
+[01Jul2025 02:38:36.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Jul2025 02:38:40.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Jul2025 02:38:44.311] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.334] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.343] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.365] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.391] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.412] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.430] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.459] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.480] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:44.666] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:45.172] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:45.665] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:46.165] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 02:38:46.665] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[01Jul2025 02:38:47.165] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[01Jul2025 02:38:47.437] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7273 ms
+[01Jul2025 02:38:47.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.329s)! For help, type "help"
+[01Jul2025 02:38:47.472] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Jul2025 02:40:54.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kratos991[/127.221.17.105:52779] logged in with entity id 412 at (-1019.988812463371, 64.0, -133.01184096297496)
+[01Jul2025 02:40:54.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 joined the game
+[01Jul2025 02:41:15.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kratos991 lost connection: Disconnected
+[01Jul2025 02:41:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 left the game
