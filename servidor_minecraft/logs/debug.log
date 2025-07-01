@@ -1274,3 +1274,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 02:41:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kratos991 left the game
 [01Jul2025 02:43:47.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jul2025 02:43:47.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:48:47.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:48:47.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 02:53:47.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 02:53:47.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
