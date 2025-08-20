@@ -8,10 +8,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-21 22:02:06 +0000",
-      "minecraft:mushroom_fields": "2025-05-31 16:18:58 +0000",
       "minecraft:taiga": "2025-05-21 22:01:27 +0000",
       "minecraft:eroded_badlands": "2025-05-24 02:41:28 +0000",
-      "minecraft:frozen_river": "2025-05-31 01:12:57 +0000",
       "minecraft:cherry_grove": "2025-05-20 23:19:54 +0000",
       "minecraft:sunflower_plains": "2025-05-20 23:50:52 +0000",
       "minecraft:birch_forest": "2025-05-21 20:59:38 +0000",
@@ -27,22 +25,15 @@
       "minecraft:sparse_jungle": "2025-05-21 18:02:21 +0000",
       "minecraft:river": "2025-05-20 23:07:02 +0000",
       "minecraft:lukewarm_ocean": "2025-05-21 20:57:34 +0000",
-      "minecraft:stony_shore": "2025-05-31 00:24:47 +0000",
       "minecraft:dripstone_caves": "2025-05-20 22:33:44 +0000",
       "minecraft:swamp": "2025-05-21 21:57:48 +0000",
-      "minecraft:grove": "2025-05-31 00:25:10 +0000",
       "minecraft:cold_ocean": "2025-05-21 22:02:55 +0000",
       "minecraft:forest": "2025-05-20 22:15:18 +0000",
       "minecraft:lush_caves": "2025-05-23 20:58:58 +0000",
-      "minecraft:deep_cold_ocean": "2025-05-31 16:21:02 +0000",
-      "minecraft:frozen_ocean": "2025-05-31 16:23:11 +0000",
       "minecraft:desert": "2025-05-24 02:40:01 +0000",
       "minecraft:windswept_forest": "2025-05-21 22:01:13 +0000",
-      "minecraft:deep_frozen_ocean": "2025-05-31 16:21:17 +0000",
       "minecraft:jungle": "2025-05-21 00:02:12 +0000",
       "minecraft:ocean": "2025-05-21 21:42:33 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-06-08 03:03:03 +0000",
-      "minecraft:snowy_beach": "2025-05-31 14:51:41 +0000",
       "minecraft:windswept_savanna": "2025-05-21 20:56:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-21 21:35:59 +0000",
       "minecraft:flower_forest": "2025-05-20 23:52:26 +0000",
@@ -414,10 +405,7 @@
       "cooked_mutton": "2025-05-20 22:23:03 +0000",
       "cooked_beef": "2025-05-21 19:36:00 +0000",
       "beef": "2025-05-23 23:11:04 +0000",
-      "pumpkin_pie": "2025-05-31 14:56:34 +0000",
       "golden_apple": "2025-05-24 06:13:27 +0000",
-      "bread": "2025-05-31 15:19:14 +0000",
-      "cookie": "2025-05-31 14:54:11 +0000",
       "melon_slice": "2025-05-21 18:03:14 +0000",
       "cooked_chicken": "2025-05-20 22:37:53 +0000"
     },
@@ -498,13 +486,10 @@
       "minecraft:spider": "2025-05-20 22:28:51 +0000",
       "minecraft:creeper": "2025-05-20 22:59:30 +0000",
       "minecraft:slime": "2025-05-23 21:29:29 +0000",
-      "minecraft:phantom": "2025-05-31 16:20:28 +0000",
       "minecraft:zombified_piglin": "2025-05-24 05:05:00 +0000",
       "minecraft:witch": "2025-05-23 20:56:20 +0000",
       "minecraft:wither_skeleton": "2025-05-24 04:54:11 +0000",
-      "minecraft:cave_spider": "2025-05-31 15:57:24 +0000",
       "minecraft:enderman": "2025-05-20 22:27:39 +0000",
-      "minecraft:endermite": "2025-05-31 15:36:41 +0000",
       "minecraft:zombie": "2025-05-20 22:35:55 +0000",
       "minecraft:drowned": "2025-05-20 23:52:16 +0000",
       "minecraft:zombie_villager": "2025-05-20 22:33:07 +0000"
@@ -2956,228 +2941,6 @@
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2025-05-24 08:35:20 +0000"
-    },
-    "done": true
-  },
-  "doppelgangermod:reverse": {
-    "criteria": {
-      "reverse_1": "2025-05-31 00:59:09 +0000"
-    },
-    "done": false
-  },
-  "sasquatch:danger_in_the_woods": {
-    "criteria": {
-      "danger_in_the_woods": "2025-05-31 01:18:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-05-31 01:26:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-05-31 01:26:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-31 02:34:28 +0000"
-    },
-    "done": true
-  },
-  "doppelgangermod:mutation": {
-    "criteria": {
-      "mutation_0": "2025-05-31 14:39:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-31 14:48:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-31 14:50:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-05-31 14:50:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-31 15:02:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-31 15:02:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 15:40:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-05-31 16:17:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-08 01:42:58 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_frost_resistance": {
-    "criteria": {
-      "has_magic_scroll": "2025-06-08 02:17:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-06-08 02:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-06-08 02:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-06-08 02:20:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-06-08 02:20:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-06-08 02:20:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-06-08 02:21:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-06-08 02:21:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-08 02:21:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_lost_tablet": {
-    "criteria": {
-      "has_lost_tablet": "2025-06-08 02:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-06-08 02:33:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-06-08 02:33:28 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-06-08 02:40:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_disenchantment": {
-    "criteria": {
-      "coded_trigger": "2025-06-08 02:46:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-06-08 02:46:28 +0000"
     },
     "done": true
   },
